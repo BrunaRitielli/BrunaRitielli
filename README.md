@@ -90,11 +90,28 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=github_dark" 
   />
 
-  <!-- QUADRO 2 – TECNOLOGIAS -->
-  <img 
-       height="200"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaRitielli&theme=github_dark" 
-  />
+  <!-- QUADRO 2 – TECNOLOGIAS PERSONALIZADAS -->
+  <div 
+       style="
+          height: 200px; 
+          width: 320px; 
+          background: #0d1117; 
+          color: #ffffff; 
+          border-radius: 10px; 
+          display: flex; 
+          flex-direction: column; 
+          justify-content: center; 
+          align-items: center; 
+          font-family: Arial, sans-serif;
+          border: 1px solid #30363d;
+       "
+  >
+      <h3 style="margin: 0 0 10px 0;">Tecnologias</h3>
+      <p style="margin: 5px 0;">🐍 Python</p>
+      <p style="margin: 5px 0;">📊 Pandas</p>
+      <p style="margin: 5px 0;">🗄️ SQL</p>
+      <p style="margin: 5px 0;">🤖 Machine Learning</p>
+  </div>
 
 </div>
 

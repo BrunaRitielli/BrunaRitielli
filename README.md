@@ -85,4 +85,16 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=radical" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaRitielli&theme=radical" height="200"/> |
 
 
+<div align="center">
 
+<img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight"
+/>
+
+<img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight"
+/>
+
+</div>

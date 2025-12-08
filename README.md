@@ -80,21 +80,24 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 ### 📊 Estatísticas no GitHub
 
 
-| Minhas Estatísticas | Linguagens Mais Usadas |
-|---------------------|------------------------|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=radical" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaRitielli&theme=radical" height="200"/> |
-
-
-<div align="center">
+<p>
 
 <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight"
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right:10px;"
+    src="https://github-readme-stats.vercel.app/api?username=BrunaRitielli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight"
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRitielli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
-</div>
+</p>
+
+
+

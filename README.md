@@ -95,6 +95,10 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunaRitielli&theme=radical" 
     alt="GitHub Summary"
 />
+<img 
+     src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=BrunaRitielli&theme=radical" 
+     alt="Grade"
+/>
 
 
 

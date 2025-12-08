@@ -7,8 +7,6 @@ Estamos em transição para a área de Data Science onde podemos transformar nú
 profissional que  nos permita aplicar todo nosso conhecimento na área e crescermos junto com a equipe.
 
 
-### 🤖 Linguagens e Tecnologias
-
 <a href="https://github.com/BrunaRitielli">
     <img 
         alt="Perfil GitHub" 

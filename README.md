@@ -28,63 +28,26 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    
-<img 
-    align="left" 
-    alt="pandas" 
-    title="pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-           
-          
-/>
-<img 
-    align="left" 
-    alt="sql" 
-    title="sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-          
+<a href="https://github.com/BrunaRitielli">
+    <img 
+        alt="Perfil GitHub" 
+        title="Visitar meu perfil" 
+        src="https://custom-icon-badges.demolab.com/badge/GitHub-Bruna%20Ritielli-000000?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
 
+<a href="https://github.com/BrunaRitielli?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/BrunaRitielli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+</a>
 
-
-
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<a href="https://github.com/BrunaRitielli?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/BrunaRitielli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>

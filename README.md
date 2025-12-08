@@ -72,3 +72,27 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 />
 
 <br clear="left"/>
+     />
+    </a>
+</p>
+
+---
+### 📊 Estatísticas no GitHub
+<div align="center">
+
+  <!-- Quadro 1: Stats -->
+  <img 
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=BrunaRitielli&show_icons=true&theme=radical&hide_border=true" 
+  />
+
+  <!-- Quadro 2: Linguagens -->
+  <img 
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRitielli&layout=compact&theme=radical&hide_border=true"
+  />
+
+</div>
+
+
+

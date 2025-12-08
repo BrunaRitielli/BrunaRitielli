@@ -78,21 +78,23 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 
 ---
 ### 📊 Estatísticas no GitHub
-<div align="center">
 
-  <!-- Quadro 1: Stats -->
+<a href="https://github.com/BrunaRitielli">
   <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=BrunaRitielli&show_icons=true&theme=radical&hide_border=true" 
-  />
+       height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=BrunaRitielli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
 
-  <!-- Quadro 2: Linguagens -->
+<a href="https://github.com/BrunaRitielli">
   <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRitielli&layout=compact&theme=radical&hide_border=true"
-  />
+       height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRitielli&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
-</div>
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunaRitielli&theme=radical" 
+    alt="GitHub Summary"
+/>
 
 
 

@@ -8,11 +8,18 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 
 
 
+<a href="https://github.com/BrunaRitielli">
+    <img 
+        alt="GitHub" 
+        title="Meu GitHub" 
+        src="https://custom-icon-badges.demolab.com/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
 
 <a href="https://github.com/BrunaRitielli?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
-        title="Total de estrelas no GitHub" 
+        title="Total de estrelas" 
         src="https://custom-icon-badges.demolab.com/github/stars/BrunaRitielli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
 </a>

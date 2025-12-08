@@ -81,37 +81,65 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 
 ### 📊 Estatísticas no GitHub
 
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
   <!-- QUADRO 1 – ESTATÍSTICAS DO GITHUB -->
-  <img 
-       height="200"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=github_dark" 
-  />
-
-  <!-- QUADRO 2 – TECNOLOGIAS PERSONALIZADAS -->
   <div 
        style="
           height: 200px; 
-          width: 320px; 
+          width: 350px; 
           background: #0d1117; 
           color: #ffffff; 
           border-radius: 10px; 
-          display: flex; 
-          flex-direction: column; 
-          justify-content: center; 
-          align-items: center; 
-          font-family: Arial, sans-serif;
           border: 1px solid #30363d;
+          padding: 15px;
+          font-family: Arial, sans-serif;
        "
   >
-      <h3 style="margin: 0 0 10px 0;">Tecnologias</h3>
-      <p style="margin: 5px 0;">🐍 Python</p>
-      <p style="margin: 5px 0;">📊 Pandas</p>
-      <p style="margin: 5px 0;">🗄️ SQL</p>
-      <p style="margin: 5px 0;">🤖 Machine Learning</p>
+      <h3 style="margin-top: 0;">📊 Estatísticas do GitHub</h3>
+      <p>⭐ Total de estrelas: —</p>
+      <p>🔁 Total de commits: —</p>
+      <p>📌 Total de PRs: —</p>
+      <p>❗ Total de Issues: —</p>
+      <p>📅 Contribuições (ano passado): —</p>
+  </div>
+
+  <!-- QUADRO 2 – TECNOLOGIAS -->
+  <div 
+       style="
+          height: 200px; 
+          width: 350px; 
+          background: #0d1117; 
+          color: #ffffff; 
+          border-radius: 10px; 
+          border: 1px solid #30363d;
+          padding: 15px;
+          font-family: Arial, sans-serif;
+       "
+  >
+      <h3 style="margin-top: 0;">🛠️ Tecnologias</h3>
+
+      <p>🐍 Python <span style="float:right;">40%</span></p>
+      <div style="background:#30363d; height:6px; border-radius:4px;">
+          <div style="background:#f85149; height:100%; width:40%; border-radius:4px;"></div>
+      </div>
+
+      <p style="margin-top:12px;">📊 Pandas <span style="float:right;">25%</span></p>
+      <div style="background:#30363d; height:6px; border-radius:4px;">
+          <div style="background:#238636; height:100%; width:25%; border-radius:4px;"></div>
+      </div>
+
+      <p style="margin-top:12px;">🗄️ SQL <span style="float:right;">20%</span></p>
+      <div style="background:#30363d; height:6px; border-radius:4px;">
+          <div style="background:#2f81f7; height:100%; width:20%; border-radius:4px;"></div>
+      </div>
+
+      <p style="margin-top:12px;">🤖 Machine Learning <span style="float:right;">15%</span></p>
+      <div style="background:#30363d; height:6px; border-radius:4px;">
+          <div style="background:#a371f7; height:100%; width:15%; border-radius:4px;"></div>
+      </div>
   </div>
 
 </div>
+
 

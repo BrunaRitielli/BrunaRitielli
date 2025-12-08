@@ -90,7 +90,7 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=github_dark" 
   />
 
-  <!-- QUADRO 2 – TECNOLOGIAS MAIS USADAS -->
+  <!-- QUADRO 2 – TECNOLOGIAS -->
   <img 
        height="200"
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaRitielli&theme=github_dark" 

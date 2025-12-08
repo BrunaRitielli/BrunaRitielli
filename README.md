@@ -7,13 +7,7 @@ Estamos em transição para a área de Data Science onde podemos transformar nú
 profissional que  nos permita aplicar todo nosso conhecimento na área e crescermos junto com a equipe.
 
 
-<a href="https://github.com/BrunaRitielli">
-    <img 
-        alt="Perfil GitHub" 
-        title="Visitar meu perfil" 
-        src="https://custom-icon-badges.demolab.com/badge/GitHub-Bruna%20Ritielli-000000?style=for-the-badge&logo=github&logoColor=white"
-    />
-</a>
+
 
 <a href="https://github.com/BrunaRitielli?tab=repositories&sort=stargazers">
     <img 

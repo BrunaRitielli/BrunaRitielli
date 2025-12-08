@@ -79,23 +79,10 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
 ---
 ### 📊 Estatísticas no GitHub
 
-<div align="center">
+|  GitHub Stats | Linguagens Mais Usadas |
+|--------------|------------------------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=radical" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaRitielli&theme=radical" height="200"/> |
 
-<!-- Card 1 - GitHub Stats -->
-<img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaRitielli&theme=radical" 
-    alt="GitHub Stats"
-    height="200"
-/>
-
-<!-- Card 2 - Most Used Languages -->
-<img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunaRitielli&theme=radical" 
-    alt="Most Used Languages"
-    height="200"
-/>
-
-</div>
 
 
 

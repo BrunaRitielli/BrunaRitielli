@@ -31,6 +31,7 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
         src="https://custom-icon-badges.demolab.com/github/followers/BrunaRitielli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
 </a>
+
 🤖 Linguagens e Tecnologias
 <img 
     align="left" 

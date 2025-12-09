@@ -21,7 +21,7 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
         alt="Total de estrelas" 
         title="Total de estrelas" 
         src="https://custom-icon-badges.demolab.com/github/stars/BrunaRitielli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
+   
 </a>
 
 <a href="https://github.com/BrunaRitielli?tab=followers">

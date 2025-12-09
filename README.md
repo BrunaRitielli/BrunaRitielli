@@ -29,7 +29,7 @@ profissional que  nos permita aplicar todo nosso conhecimento na área e crescer
         alt="Seguidores" 
         title="Me siga no GitHub" 
         src="https://custom-icon-badges.demolab.com/github/followers/BrunaRitielli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-       />
+       
     </a>
 </p>
 

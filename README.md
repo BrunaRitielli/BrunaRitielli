@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Engenheira Eletricista, Especialista em Logística e Especialista em Ciência de Dados. Habilidades: raciocínio lógico, análise de processos, tomada de decisão.
+Engenheira Eletricista, Especialista em Logística e Especialista em Ciência de Dados. Habilidades:  lógico, análise de processos, tomada de decisão.
 Estamos em transição para a área de Data Science onde podemos transformar números em histórias, padrões em decisões e dados em resultados reais. Buscamos oportunidade 
 profissional que  nos permita aplicar todo nosso conhecimento na área e crescermos junto com a equipe.
 

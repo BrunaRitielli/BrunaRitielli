@@ -8,8 +8,8 @@ Engenheira Eletricista, Especialista em Logística e Especialista em Ciência de
 • Visualização de dados: Power BI, criação de dashboards interativos para monitoramento de KPIs e storytelling com dados.
 • Estatística aplicada e avaliação de modelos: AUC/ROC, validação out-of-time (OOT), métricas de classificação, avaliação robusta de desempenho e controle de viés temporal.
 • Versionamento e colaboração: Git, GitHub, boas práticas de controle de versão, revisão de código e integração em workflows de equipe.
-Estamos em transição para a área de Data Science onde podemos transformar números em histórias, padrões em decisões e dados em resultados reais. Buscamos oportunidade 
-profissional que  nos permita aplicar todo nosso conhecimento na área e crescermos junto com a equipe.
+Estou em transição para a área de Data Science onde possa transformar números em histórias, padrões em decisões e dados em resultados reais. Busco oportunidade 
+profissional que permita aplicar todo meu conhecimento na área e crescer junto com a equipe.
 
 
 
